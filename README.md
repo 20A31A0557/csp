@@ -7,6 +7,8 @@ my website link: ## azure link :https://blue-mushroom-0ee6e5d10.3.azurestaticapp
 ## HOME
 ![Screenshot (81)](https://github.com/20A31A0557/farmers-area/assets/109963373/28de7edf-44e6-41ea-a2b8-7dd658fa457e)
 
+## chatbot
+![Screenshot (83)](https://github.com/20A31A0557/farmers-area/assets/109963373/867a4dca-98bf-47a6-a0a9-b5414d7b40ff)
 
 ## Organic Farming
 ![Screenshot (70)](https://github.com/20A31A0557/farmers-area/assets/109963373/7923d647-88f0-4cf9-9db4-abdf1461df26)
@@ -22,3 +24,4 @@ my website link: ## azure link :https://blue-mushroom-0ee6e5d10.3.azurestaticapp
 ![Screenshot (78)](https://github.com/20A31A0557/farmers-area/assets/109963373/fc330dbc-bd01-4ee9-bd5d-d58543528883)
 ![Screenshot (79)](https://github.com/20A31A0557/farmers-area/assets/109963373/cf4fe32e-f19f-41ba-9452-206c40e7e1c0)
 ![Screenshot (80)](https://github.com/20A31A0557/farmers-area/assets/109963373/31d69104-05d8-4de7-b9ef-0ee24f222fb6)
+
