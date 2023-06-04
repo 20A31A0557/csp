@@ -5,8 +5,8 @@ Here i create a website named farmers area that helps farmers to assist them in 
 my website link: ## azure link :https://blue-mushroom-0ee6e5d10.3.azurestaticapps.net
 
 ## HOME
-![Screenshot (68)](https://github.com/20A31A0557/farmers-area/assets/109963373/7d38068e-46ab-4525-8998-dadfe5953884)
-![Screenshot (69)](https://github.com/20A31A0557/farmers-area/assets/109963373/c97c8d5b-e857-4ac3-86c7-9ff3167de365)
+![Screenshot (81)](https://github.com/20A31A0557/farmers-area/assets/109963373/28de7edf-44e6-41ea-a2b8-7dd658fa457e)
+
 
 ## Organic Farming
 ![Screenshot (70)](https://github.com/20A31A0557/farmers-area/assets/109963373/7923d647-88f0-4cf9-9db4-abdf1461df26)
