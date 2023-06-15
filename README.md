@@ -1,3 +1,5 @@
+
+![Screenshot (86)](https://github.com/20A31A0557/farmers-area/assets/109963373/87eb39bd-15d6-4a00-b9a6-8dd936d7a717)
 # future ready talent project by Hari Hara Manikanta
 
 Here i create a website named farmers area that helps farmers to assist them in making informed decisions, optimizing their agricultural practices, and ultimately improving their productivity and sustainability.
