@@ -20,7 +20,8 @@ MY PROJECT VIDEO URL: ## https://youtu.be/MmpoY0OCez0
 ## Static Web Apps
 ![Screenshot (87)](https://github.com/20A31A0557/farmers-area/assets/109963373/0657eb1c-0fdb-4e78-abf7-56ecaa1fec90)
 
-Deployement History:
+## Deployement History:
+
 ![Screenshot (89)](https://github.com/20A31A0557/farmers-area/assets/109963373/27353efc-d1b0-436f-90b1-0de5353915bb)
 
 ## HOME
