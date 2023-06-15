@@ -4,6 +4,8 @@ Here i create a website named farmers area that helps farmers to assist them in 
 
 my website link: ## azure link :https://blue-mushroom-0ee6e5d10.3.azurestaticapps.net
 
+my project video url: ## https://youtu.be/MmpoY0OCez0
+
 ## HOME
 ![Screenshot (81)](https://github.com/20A31A0557/farmers-area/assets/109963373/28de7edf-44e6-41ea-a2b8-7dd658fa457e)
 
