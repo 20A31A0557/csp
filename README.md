@@ -1,5 +1,4 @@
-
-![Screenshot (86)](https://github.com/20A31A0557/farmers-area/assets/109963373/87eb39bd-15d6-4a00-b9a6-8dd936d7a717)
+![image](https://github.com/20A31A0557/farmers-area/assets/109963373/b5edda02-d301-4af4-a1b8-f2221cc56835)
 # future ready talent project by Hari Hara Manikanta
 
 Here i create a website named farmers area that helps farmers to assist them in making informed decisions, optimizing their agricultural practices, and ultimately improving their productivity and sustainability.
@@ -8,11 +7,20 @@ my website link: ## azure link :https://blue-mushroom-0ee6e5d10.3.azurestaticapp
 
 my project video url: ## https://youtu.be/MmpoY0OCez0
 
+## CHATBOT
+# code for bot creation : <iframe src='https://webchat.botframework.com/embed/healthbot-nc6didf?s=TbzjNSbc1JA.5Tv2OOc2ksvlNyrLVzWX_nOiSNPb388OoZRnqAx_nbU' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+![Screenshot (86)](https://github.com/20A31A0557/farmers-area/assets/109963373/87eb39bd-15d6-4a00-b9a6-8dd936d7a717)
+![Screenshot (88)](https://github.com/20A31A0557/farmers-area/assets/109963373/93ad5cfa-f58d-4615-8c3b-1a9c6589e037)
+![Screenshot (83)](https://github.com/20A31A0557/farmers-area/assets/109963373/867a4dca-98bf-47a6-a0a9-b5414d7b40ff)
+
+
+## Static Web Apps
+![Screenshot (87)](https://github.com/20A31A0557/farmers-area/assets/109963373/0657eb1c-0fdb-4e78-abf7-56ecaa1fec90)
+
+
+
 ## HOME
 ![Screenshot (81)](https://github.com/20A31A0557/farmers-area/assets/109963373/28de7edf-44e6-41ea-a2b8-7dd658fa457e)
-
-## chatbot
-![Screenshot (83)](https://github.com/20A31A0557/farmers-area/assets/109963373/867a4dca-98bf-47a6-a0a9-b5414d7b40ff)
 
 ## Organic Farming
 ![Screenshot (70)](https://github.com/20A31A0557/farmers-area/assets/109963373/7923d647-88f0-4cf9-9db4-abdf1461df26)
@@ -28,6 +36,4 @@ my project video url: ## https://youtu.be/MmpoY0OCez0
 ![Screenshot (78)](https://github.com/20A31A0557/farmers-area/assets/109963373/fc330dbc-bd01-4ee9-bd5d-d58543528883)
 ![Screenshot (79)](https://github.com/20A31A0557/farmers-area/assets/109963373/cf4fe32e-f19f-41ba-9452-206c40e7e1c0)
 ![Screenshot (80)](https://github.com/20A31A0557/farmers-area/assets/109963373/31d69104-05d8-4de7-b9ef-0ee24f222fb6)
-## code for CHATBOT
-<iframe src='https://webchat.botframework.com/embed/healthbot-nc6didf?s=TbzjNSbc1JA.5Tv2OOc2ksvlNyrLVzWX_nOiSNPb388OoZRnqAx_nbU' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
 
