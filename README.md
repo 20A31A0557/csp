@@ -26,4 +26,6 @@ my project video url: ## https://youtu.be/MmpoY0OCez0
 ![Screenshot (78)](https://github.com/20A31A0557/farmers-area/assets/109963373/fc330dbc-bd01-4ee9-bd5d-d58543528883)
 ![Screenshot (79)](https://github.com/20A31A0557/farmers-area/assets/109963373/cf4fe32e-f19f-41ba-9452-206c40e7e1c0)
 ![Screenshot (80)](https://github.com/20A31A0557/farmers-area/assets/109963373/31d69104-05d8-4de7-b9ef-0ee24f222fb6)
+## code for CHATBOT
+<iframe src='https://webchat.botframework.com/embed/healthbot-nc6didf?s=TbzjNSbc1JA.5Tv2OOc2ksvlNyrLVzWX_nOiSNPb388OoZRnqAx_nbU' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
 
