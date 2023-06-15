@@ -19,6 +19,7 @@ MY PROJECT VIDEO URL: ## https://youtu.be/MmpoY0OCez0
 
 ## Static Web Apps
 ![Screenshot (87)](https://github.com/20A31A0557/farmers-area/assets/109963373/0657eb1c-0fdb-4e78-abf7-56ecaa1fec90)
+Work flow code : https://github.com/20A31A0557/farmers-area/blob/main/.github/workflows/azure-static-web-apps-blue-mushroom-0ee6e5d10.yml
 
 ## Deployement History:
 
