@@ -2,6 +2,31 @@
 <html>
 <head>
   <title>Farmers area</title>
+ <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Navigation
+        var currentPage = window.location.href;
+        var navLinks = document.querySelectorAll("#menu a");
+        navLinks.forEach(function(link) {
+            if (link.href === currentPage) {
+                link.parentElement.classList.add("active");
+            }
+        });
+
+        // Dynamic Image Menu
+        var headerImageMenu = document.getElementById("header-image-menu");
+
+        var imageElement = document.createElement("img");
+        imageElement.src = "path/to/your/image.jpg"; // Replace with the actual image path
+        imageElement.alt = "Farmers Area Image";
+
+        var textElement = document.createElement("p");
+        textElement.textContent = "Your sample text goes here.";
+
+        headerImageMenu.appendChild(imageElement);
+        headerImageMenu.appendChild(textElement);
+    });
+  </script>
   <style>
     .csp{
       font-size:100px;
